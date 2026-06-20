@@ -1,5 +1,7 @@
 # Détection de faux billets avec Python
 
+![Aperçu du projet](P12.png)
+
 **Erika INGABIRE — Data Analyst | Avril 2025**
 
 ---
